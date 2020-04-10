@@ -1,0 +1,7 @@
+C:\Users\Core i3\Desktop\Bonifas\Proyecto_Final_DML\Proyecto_Final_DML\bin\Debug\Proyecto_Final_DML.exe.config
+C:\Users\Core i3\Desktop\Bonifas\Proyecto_Final_DML\Proyecto_Final_DML\bin\Debug\Proyecto_Final_DML.exe
+C:\Users\Core i3\Desktop\Bonifas\Proyecto_Final_DML\Proyecto_Final_DML\bin\Debug\Proyecto_Final_DML.pdb
+C:\Users\Core i3\Desktop\Bonifas\Proyecto_Final_DML\Proyecto_Final_DML\obj\Debug\Proyecto_Final_DML.csprojAssemblyReference.cache
+C:\Users\Core i3\Desktop\Bonifas\Proyecto_Final_DML\Proyecto_Final_DML\obj\Debug\Proyecto_Final_DML.csproj.CoreCompileInputs.cache
+C:\Users\Core i3\Desktop\Bonifas\Proyecto_Final_DML\Proyecto_Final_DML\obj\Debug\Proyecto_Final_DML.exe
+C:\Users\Core i3\Desktop\Bonifas\Proyecto_Final_DML\Proyecto_Final_DML\obj\Debug\Proyecto_Final_DML.pdb
